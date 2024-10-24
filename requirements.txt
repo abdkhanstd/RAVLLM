@@ -1,0 +1,9 @@
+torch
+numpy
+supervision
+opencv-python
+matplotlib
+transformers
+tqdm
+peft
+Pillow
